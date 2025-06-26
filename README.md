@@ -2,6 +2,10 @@
 
 This project is a Python crawler script for downloading anime wallpapers from "Netbian" (彼岸网). Users can specify the number of pages and page numbers to crawl. The script automatically downloads wallpapers to the `wallpapers` folder and saves wallpaper information to `wallpapers_ifmt.csv`.
 
+![Static Badge](https://img.shields.io/badge/Language-python-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/API-request-purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/API-beautifulsoup-green?style=plastic)
+
 ## Features
 
 - Customizable number of pages and page numbers to crawl
@@ -165,7 +169,11 @@ This project is for learning and technical exchange only. All images belong to t
 
 # 彼岸壁纸爬虫
 
-本项目是一个用于爬取「彼岸网」动漫壁纸的 Python 爬虫脚本。用户可自定义爬取的页数和页码，自动下载壁纸图片到 `wallpapers` 文件夹，并将壁纸信息保存到 `wallpapers_ifmt.csv` 文件中。
+本项目是一个用于爬取「彼岸网」动漫壁纸的 Python 爬虫脚本。用户可自定义爬取的页数和页码，自动下载壁纸图片到 `wallpapers` 文件夹，并将壁纸信息保存到 `wallpapers_ifmt.csv` 文件中
+
+![Static Badge](https://img.shields.io/badge/Language-python-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/API-request-purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/API-beautifulsoup-green?style=plastic)
 
 ## 功能简介
 
