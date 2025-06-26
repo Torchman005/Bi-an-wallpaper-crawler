@@ -168,7 +168,7 @@ This project is for learning and technical exchange only. All images belong to t
 
 ---
 
-# 彼岸壁纸爬虫
+# 彼岸壁纸爬虫脚本
 
 本项目是一个用于爬取「彼岸网」动漫壁纸的 Python 爬虫脚本。用户可自定义爬取的页数和页码，自动下载壁纸图片到 `wallpapers` 文件夹，并将壁纸信息保存到 `wallpapers_ifmt.csv` 文件中
 
