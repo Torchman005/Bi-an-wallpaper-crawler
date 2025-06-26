@@ -1,0 +1,18 @@
+{
+    "headers": {
+        "User-Agent": "你的User-Agent",
+        "Cookie": "你的Cookie"
+    },
+    "settings": {
+        "base_url": "http://www.netbian.com",
+        "category": "dongman",
+        "download_delay": 1,
+        "output_dir": "wallpapers",
+        "csv_file": "wallpapers_ifmt.csv"
+    },
+    "proxies": {
+        "enabled": false,
+        "http": "106.15.194.169:9100",
+        "https": "106.15.194.169:9100"
+    }
+} 
